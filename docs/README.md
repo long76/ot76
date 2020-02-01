@@ -2,6 +2,6 @@
 
 You can [**download**](https://github.com/long76/ot76/raw/master/ot76.apk) apk file.
 
-Android supports **4.4+** (SDK **19+**).
+Android supports **5+** (SDK **21+**).
 ## LICENSE
-[**See license**](https://hhgbapps.ml/LICENSE.txt)
+[**See license**](https://github.com/long76/ot76/blob/master/LICENSE)
